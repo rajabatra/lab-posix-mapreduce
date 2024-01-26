@@ -424,7 +424,7 @@ The final output is re-sorted and stored in the file `reduce`.
 > Then create a plot of the results in the file `country_code_mapreduce.png`.
 > Upload your plot to github and ensure that it appears below.
 
-<img src=country_code_mapreduce.png />
+<img src=country_code_mapreducer.png />
 
 ## Part 6: MapReduce Challenge
 
